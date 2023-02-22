@@ -1,0 +1,15 @@
+.navlink {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.active {
+  color: #FFFF00;
+}
+
+.logOut {
+  color: #FFFFFF;
+  cursor: pointer;
+  font-weight: bold;
+  
+}
